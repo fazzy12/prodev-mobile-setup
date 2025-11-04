@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         position: 'relative'
     },
 
-    naveGroup: {
+    navGroup: {
         flexDirection: 'row',
         justifyContent: 'space-between',
         marginBottom: 20,
